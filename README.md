@@ -1,8 +1,8 @@
 # Cryptocurrency-Wallet-Development
 # What is Cryptocurrency Wallet?
-Crypto Wallet Introduction
+## Crypto Wallet Introduction
 A cryptocurrency wallet contains a crucial role to play in your crypto mercantilism. With a sturdy crypto pocketbook, you get the practicality of earning, observing, and transferring digital currencies. Crypto wallets run on blockchain technology and that they give the safety that makes your trade safer and quicker. These wallets provide you with the assurance that the coin it holds is underneath your possession that can't be compromised in the least. These options build a crypto pocketbook fully necessary for crypto users.
-Uses of Crypto Wallet
+## Uses of Crypto Wallet
 Technoloader may be a crypto wallet development company that ensures that the core implementation of blockchain remains pliant for any coin. The wallets that we tend to produce don't seem to be solely secure however conjointly equipped with attributes that provide you with headway in your trade. From storage to transactions, it provides you benefits that build cryptocurrency a way higher possibility than order. Considering the actual fact that cryptocurrency is that the future, we tend to prepare our wallets with the foremost last technology and power.
 # Type of Crypto Wallet
 Hot Wallet
